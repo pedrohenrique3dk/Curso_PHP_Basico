@@ -5,9 +5,9 @@
 
 ---
 
-| ========== CÓDIGO DO PROJETO ==========|============== APRESENTAÇÃO DO PROJETO ===============|
+| CÓDIGO DO PROJETO|APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/8b97f0f8-7e26-41b3-9716-ae2656d52cce" alt = "codigo" width="450" height="350">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/6e299bd3-a2d9-412b-88aa-4e5af9598c01" width="15" height="15">|
+|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/8b97f0f8-7e26-41b3-9716-ae2656d52cce" alt = "codigo" width="600" height="320">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/6e299bd3-a2d9-412b-88aa-4e5af9598c01">|
 
 
 ---
@@ -16,9 +16,9 @@
 
 ---
 
-| ========== CÓDIGO DO PROJETO ==========|============== APRESENTAÇÃO DO PROJETO ===============|
+|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/ece7b67c-3094-4610-b99d-2caebc82fa3b" alt = "codigo" width="450" height="350">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/435325bf-821c-4601-bfdd-1a1cb534e414" width="15" height="15">|
+|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/ece7b67c-3094-4610-b99d-2caebc82fa3b" alt = "codigo" width="600" height="320">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/435325bf-821c-4601-bfdd-1a1cb534e414">|
 
 ---
 
