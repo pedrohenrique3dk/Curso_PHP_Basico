@@ -14,3 +14,13 @@
 
 <video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/637d4d63-98c3-4689-b7ea-a09dc005d547" width="200" height="100">
 
+---
+
+#### 2° PROJETO [DESAFIO 1]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
+
+
+
+
+
+
+
