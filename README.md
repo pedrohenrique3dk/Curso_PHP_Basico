@@ -26,15 +26,17 @@
 
 ---
 
-#### 3° PROJETO [DESAFIO 2]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
-
+#### 3° PROJETO [DESAFIO 2]: Crie um programa que gere números aleatórios com um botão possibilitando a geação de um novo número sempre que clicarmos nele.
 ---
 
-| ========== CÓDIGO DO PROJETO ==========|============== APRESENTAÇÃO DO PROJETO ===============|
+|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/8b97f0f8-7e26-41b3-9716-ae2656d52cce" alt = "codigo" width="450" height="350">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/6e299bd3-a2d9-412b-88aa-4e5af9598c01" width="15" height="15">|
+|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/b695ebc2-bac8-4a7d-ac32-8fa5e6ea243a" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/bb694cca-a5a8-4b27-aba6-d95f132e73ff">|
+
+
 
 ---
+
 
 ---
 
