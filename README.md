@@ -5,9 +5,9 @@
 
 ---
 
-| ========== CÓDIGO DO PROJETO ==========|============== APRESENTAÇÃO DO PROJETO ===============|
+| CÓDIGO DO PROJETO|APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/8b97f0f8-7e26-41b3-9716-ae2656d52cce" alt = "codigo" width="450" height="350">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/6e299bd3-a2d9-412b-88aa-4e5af9598c01" width="15" height="15">|
+|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/8b97f0f8-7e26-41b3-9716-ae2656d52cce" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/6e299bd3-a2d9-412b-88aa-4e5af9598c01">|
 
 
 ---
@@ -16,9 +16,9 @@
 
 ---
 
-| ========== CÓDIGO DO PROJETO ==========|============== APRESENTAÇÃO DO PROJETO ===============|
+|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/ece7b67c-3094-4610-b99d-2caebc82fa3b" alt = "codigo" width="450" height="350">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/435325bf-821c-4601-bfdd-1a1cb534e414" width="15" height="15">|
+|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/ece7b67c-3094-4610-b99d-2caebc82fa3b" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/435325bf-821c-4601-bfdd-1a1cb534e414">|
 
 ---
 
@@ -26,25 +26,32 @@
 
 ---
 
-#### 3° PROJETO [DESAFIO 2]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
-
+#### 3° PROJETO [DESAFIO 2]: Crie um programa que gere números aleatórios com um botão possibilitando a geação de um novo número sempre que clicarmos nele.
 ---
 
-| ========== CÓDIGO DO PROJETO ==========|============== APRESENTAÇÃO DO PROJETO ===============|
+|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/8b97f0f8-7e26-41b3-9716-ae2656d52cce" alt = "codigo" width="450" height="350">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/6e299bd3-a2d9-412b-88aa-4e5af9598c01" width="15" height="15">|
+|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/b695ebc2-bac8-4a7d-ac32-8fa5e6ea243a" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/bb694cca-a5a8-4b27-aba6-d95f132e73ff">|
+
+
 
 ---
 
----
-
-#### 4° PROJETO [DESAFIO 3]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
 
 ---
 
-| ========== CÓDIGO DO PROJETO ==========|============== APRESENTAÇÃO DO PROJETO ===============|
+#### 4° PROJETO [DESAFIO 3]: Crie um programa que receba um valor em reais do isuário e converta esse valor para dólar na cotação do dia.
+
+---
+
+|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/8b97f0f8-7e26-41b3-9716-ae2656d52cce" alt = "codigo" width="450" height="350">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/6e299bd3-a2d9-412b-88aa-4e5af9598c01" width="15" height="15">|
+|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/944e79ee-4bd7-4360-a468-efbcd933c983" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/08d5270c-d0f8-42b9-8cf9-d8bc0f8cfe8c">|
+
+
+
+
+
 
 ---
 
