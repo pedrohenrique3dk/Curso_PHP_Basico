@@ -68,7 +68,7 @@
 
 ---
 
-#### 6° PROJETO [DESAFIO 5]: Crie um programa que faça uma análise de um número real separando a parte inteira da imaginária. 
+#### 6° PROJETO [DESAFIO 5]: Crie um programa que faça uma análise de um número real separando a parte inteira da parte decimal. 
 ---
 
 |  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
