@@ -82,20 +82,33 @@
 
 ---
 
-#### 7° PROJETO [DESAFIO 6]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
-
+#### 7° PROJETO: Criação de um forms simples retroalimentado em PHP. Aqui temos um unico arquivo que recebe e imprime os dados na tela, feito em PHP e CSS.
 ---
 
 |  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="" alt = "codigo" width="600" height="280">|<video src="" >|
+|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/9a254dd7-b417-431c-86a7-906988d8f243" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/e4c7bd91-5963-412a-8979-36ffe9576b16"  >|
 
 ---
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
-#### 8° PROJETO [DESAFIO 7]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
+#### 8° PROJETO [DESAFIO 6]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
 
 ---
 
