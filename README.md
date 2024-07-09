@@ -87,22 +87,9 @@
 
 |  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/9a254dd7-b417-431c-86a7-906988d8f243" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/e4c7bd91-5963-412a-8979-36ffe9576b16"  >|
+|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/9a254dd7-b417-431c-86a7-906988d8f243" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/cdb9cfee-236d-4a0d-adeb-1f376fe2da4b"  >|
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
