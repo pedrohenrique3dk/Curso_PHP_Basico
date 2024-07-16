@@ -95,7 +95,7 @@
 
 ---
 
-#### 8° PROJETO [DESAFIO 6]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
+#### 8° PROJETO [DESAFIO 6]: Crie um programa que receba dois valores, execute a divisão entre eles e mostre o dividendo, divisor e o resto da divisão.
 
 ---
 
@@ -107,19 +107,16 @@
 
 
 
+---
 
-
-
+#### 9° PROJETO [DESAFIO 8]: Crie um programa em que o usuário digita um salário e o programa devolve a quantidade inteira de salários mínimos ao qual o salário digitado corresponde, mais o restante que sobra. Tome como base o salário mínimo de R$ 1380,60.
 
 ---
 
-#### 9° PROJETO [DESAFIO 8]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
-
----
 
 |  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="" alt = "codigo" width="600" height="280">|<video src="" >|
+|<img src="https://github.com/user-attachments/assets/300ee3cf-2e4d-45c8-a0b7-2e34693917ad" alt = "codigo" width="600" height="280">|<video src="https://github.com/user-attachments/assets/0057ab59-b309-4e5d-ae89-c217bd7ab139" >|
 
 ---
 
