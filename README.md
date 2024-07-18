@@ -13,6 +13,10 @@
 |<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/8b97f0f8-7e26-41b3-9716-ae2656d52cce" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/6e299bd3-a2d9-412b-88aa-4e5af9598c01">|
 
 
+
+
+
+
 ---
 
 #### 2° PROJETO [DESAFIO 1]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
@@ -104,9 +108,10 @@
 
 |  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/84581513-9e7e-4ec7-a6bb-a5164b48e825" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/0d4a7ef9-1f6c-4054-9c94-1d44b81ef91b">|
+|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/84581513-9e7e-4ec7-a6bb-a5164b48e825" alt = "codigo" width="600" height="280">|<video src="https://github.com/user-attachments/assets/f198c041-3286-48af-8f72-e0e3bc3ec092">|
 
 ---
+
 
 
 
@@ -117,9 +122,10 @@
 ---
 
 
+
 |  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/user-attachments/assets/300ee3cf-2e4d-45c8-a0b7-2e34693917ad" alt = "codigo" width="600" height="280">|<video src="https://github.com/user-attachments/assets/0057ab59-b309-4e5d-ae89-c217bd7ab139" >|
+|<img src="https://github.com/user-attachments/assets/300ee3cf-2e4d-45c8-a0b7-2e34693917ad" alt = "codigo" width="600" height="280">|<video src="https://github.com/user-attachments/assets/afa2a834-9306-4bb4-9638-0de08919b386" >|
 
 ---
 
