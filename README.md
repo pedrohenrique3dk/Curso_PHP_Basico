@@ -1,10 +1,14 @@
-###                   PROJETOS FEITOS NO CURSO DE PHP BÁSICO 🐘
+|🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘 PROJETOS FEITOS NO CURSO DE PHP BÁSICO 🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘|
+|------------------------------------------------------------------------------|
+
 ---
 
 <img src="https://github.com/user-attachments/assets/3fcd2161-1fe3-4aed-bc23-ece306e2c64f" alt = "codigo" width="1000" height="480">
 
+---
 
-#### 1° PROJETO: Projeto simples de criação de um formulário com interação entre PHP e HTML e estilizado em CSS. O projeto consiste em solicitar o nome e sobrenome do usuário e usando PHP imprimir na interface o nome que foi redigido no formulário.
+|1° PROJETO: Projeto simples de criação de um formulário com interação entre PHP e HTML e estilizado em CSS. O projeto consiste em solicitar o nome e sobrenome do usuário e usando PHP imprimir na interface o nome que foi redigido no formulário.|
+|-------------------------------------------------------|
 
 ---
 
@@ -13,13 +17,10 @@
 |<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/8b97f0f8-7e26-41b3-9716-ae2656d52cce" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/6e299bd3-a2d9-412b-88aa-4e5af9598c01">|
 
 
-
-
-
-
 ---
 
-#### 2° PROJETO [DESAFIO 1]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
+| 2° PROJETO [DESAFIO 1]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número. |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ---
 
