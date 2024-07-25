@@ -1,9 +1,18 @@
-|🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘 PROJETOS FEITOS NO CURSO DE PHP BÁSICO 🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘|
-|------------------------------------------------------------------------------|
+<div align='center'>
+
+|🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘 PROJETOS FEITOS NO CURSO DE PHP BÁSICO 🐘🐘🐘🐘🐘🐘🐘🐘🐘                                 |
+|------------------------------------------------------------------------------------------------------------------------------|
+
+</div>
 
 ---
 
-<img src="https://github.com/user-attachments/assets/3fcd2161-1fe3-4aed-bc23-ece306e2c64f" alt = "codigo" width="1000" height="480">
+<div align='center'>
+
+|<img src="https://github.com/user-attachments/assets/b7b6decb-c7a1-4d07-b4c7-56b4b353a5e0" alt = "codigo" width="900" height="280">|
+|----------------------------------|
+
+</div>
 
 ---
 
@@ -12,9 +21,10 @@
 
 ---
 
+
 | CÓDIGO DO PROJETO|APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/8b97f0f8-7e26-41b3-9716-ae2656d52cce" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/6e299bd3-a2d9-412b-88aa-4e5af9598c01">|
+|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/8b97f0f8-7e26-41b3-9716-ae2656d52cce" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/6e299bd3-a2d9-412b-88aa-4e5af9598c01" >|
 
 
 ---
