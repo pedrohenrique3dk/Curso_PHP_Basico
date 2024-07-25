@@ -3,7 +3,12 @@
 
 ---
 
-<img src="https://github.com/user-attachments/assets/3fcd2161-1fe3-4aed-bc23-ece306e2c64f" alt = "codigo" width="1000" height="480">
+<div align='center'>
+
+|<img src="https://github.com/user-attachments/assets/b7b6decb-c7a1-4d07-b4c7-56b4b353a5e0" alt = "codigo" width="500" height="280">|
+|----------------------------------|
+
+</div>
 
 ---
 
