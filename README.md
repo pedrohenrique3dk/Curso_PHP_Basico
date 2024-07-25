@@ -5,7 +5,7 @@
 
 <div align='center'>
 
-|<img src="https://github.com/user-attachments/assets/b7b6decb-c7a1-4d07-b4c7-56b4b353a5e0" alt = "codigo" width="500" height="280">|
+|<img src="https://github.com/user-attachments/assets/b7b6decb-c7a1-4d07-b4c7-56b4b353a5e0" alt = "codigo" width="900" height="280">|
 |----------------------------------|
 
 </div>
