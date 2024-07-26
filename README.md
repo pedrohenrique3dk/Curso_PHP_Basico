@@ -45,9 +45,10 @@
 
 |  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/ece7b67c-3094-4610-b99d-2caebc82fa3b" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/435325bf-821c-4601-bfdd-1a1cb534e414">|
+|<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio01"><img src="https://github.com/user-attachments/assets/01b0d1a7-7452-4e5f-88af-23d12464f3c5" alt = "codigo" width="500" height="300"></a>|<a href="https://youtu.be/Bxmqb1zreQ4"><img src="https://github.com/user-attachments/assets/829e72bd-5893-47ce-b2d4-cbbf4d5d491f" alt = "codigo" width="500" height="300"></a>|
 
 ---
+
 
 
 
