@@ -16,16 +16,25 @@
 
 ---
 
-|1° PROJETO: Projeto simples de criação de um formulário com interação entre PHP e HTML e estilizado em CSS. O projeto consiste em solicitar o nome e sobrenome do usuário e usando PHP imprimir na interface o nome que foi redigido no formulário.|
-|-------------------------------------------------------|
+⚠️ AVISO 1: Se quiser ser encaminhado para o arquivo que contém o código do projeto, clique na IMAGEM na caixa CÓDIGO DO PROJETO e você será redirecionado ao arquivo para download.&nbsp;
+
+⚠️ AVISO 2: Se quiser ver o funcionamento do projeto em vídeo clique no GIF na caixa APRESENTAÇÃO DO PROJETO e você será redirecionado para o vídeo de uma breve apresentação do projeto que está postado no youtube.
 
 ---
 
+<div align="center">
+
+🔵<i>1° PROJETO</i>⚪
+
+|Projeto simples de criação de um formulário com interação entre PHP e HTML e estilizado em CSS. O projeto consiste em solicitar o nome e sobrenome do usuário e usando PHP imprimir na interface o nome que foi redigido no formulário.|
+|-------------------------------------------------------|
+
+
+---
 
 | CÓDIGO DO PROJETO|APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/8b97f0f8-7e26-41b3-9716-ae2656d52cce" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/6e299bd3-a2d9-412b-88aa-4e5af9598c01" >|
-
+|<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/aulasphp/ex06"><img src="https://github.com/user-attachments/assets/653a6887-0eec-4aa6-9b28-da62fbad3443" alt = "codigo" width="500" height="300"></a>|<a href="https://youtu.be/xgqOoPztr40"><img src="https://github.com/user-attachments/assets/dafbc6a7-02cb-482a-b93e-691d7b1db5bc" alt = "codigo" width="500" height="300"></a>|
 
 ---
 
@@ -192,7 +201,7 @@
 
 
 
-
+</div>
 
 
 
