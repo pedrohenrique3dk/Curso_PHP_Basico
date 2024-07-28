@@ -1,6 +1,6 @@
 <div align='center'>
 
-|🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘 PROJETOS FEITOS NO CURSO DE PHP BÁSICO 🐘🐘🐘🐘🐘🐘🐘🐘🐘                                 |
+|🐘 PROJETOS FEITOS NO CURSO DE PHP BÁSICO 🐘                            |
 |------------------------------------------------------------------------------------------------------------------------------|
 
 </div>
@@ -59,9 +59,7 @@
 
 |  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/b695ebc2-bac8-4a7d-ac32-8fa5e6ea243a" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/bb694cca-a5a8-4b27-aba6-d95f132e73ff">|
-
-
+|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
 
 ---
 
@@ -74,8 +72,7 @@
 
 |  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/944e79ee-4bd7-4360-a468-efbcd933c983" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/08d5270c-d0f8-42b9-8cf9-d8bc0f8cfe8c">|
-
+|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
 
 ---
 
@@ -88,7 +85,7 @@
 
 |  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/e30c16ee-0ce4-4c7e-bad4-24b7a014d996" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/9d578fb2-6b79-42d1-ab38-a55fb9c5e4c4" >|
+|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
 
 
 ---
@@ -101,7 +98,7 @@
 
 |  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/72686e7e-6f78-4015-b6ae-c318466d43df" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/b6ad5467-a9d6-4132-96ef-fb78fd9575f4" >|
+|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
 
 ---
 
@@ -115,11 +112,9 @@
 
 |  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/9a254dd7-b417-431c-86a7-906988d8f243" alt = "codigo" width="600" height="280">|<video src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/cdb9cfee-236d-4a0d-adeb-1f376fe2da4b"  >|
+|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>||
 
 ---
-
-
 
 ---
 
@@ -129,7 +124,7 @@
 
 |  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/assets/173001378/84581513-9e7e-4ec7-a6bb-a5164b48e825" alt = "codigo" width="600" height="280">|<video src="https://github.com/user-attachments/assets/f198c041-3286-48af-8f72-e0e3bc3ec092">|
+|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
 
 ---
 
@@ -138,7 +133,7 @@
 
 ---
 
-#### 9° PROJETO [DESAFIO 8]: Crie um programa em que o usuário digita um salário e o programa devolve a quantidade inteira de salários mínimos ao qual o salário digitado corresponde, mais o restante que sobra. Tome como base o salário mínimo de R$ 1380,60.
+#### 9° PROJETO [DESAFIO 7]: Crie um programa em que o usuário digita um salário e o programa devolve a quantidade inteira de salários mínimos ao qual o salário digitado corresponde, mais o restante que sobra. Tome como base o salário mínimo de R$ 1380,60.
 
 ---
 
@@ -146,57 +141,68 @@
 
 |  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="https://github.com/user-attachments/assets/300ee3cf-2e4d-45c8-a0b7-2e34693917ad" alt = "codigo" width="600" height="280">|<video src="https://github.com/user-attachments/assets/afa2a834-9306-4bb4-9638-0de08919b386" >|
+|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
 
 ---
 
-#### 10° PROJETO [DESAFIO 9]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
-
----
-
-|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
-|---------------------------------------------|--------------------------------------------------|
-|<img src="" alt = "codigo" width="600" height="280">|<video src="" >|
-
----
-
-#### 11° PROJETO [DESAFIO 10]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
+#### 10° PROJETO [DESAFIO 8]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
 
 ---
 
 |  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="" alt = "codigo" width="600" height="280">|<video src="" >|
+|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
 
 ---
 
-#### 13° PROJETO [DESAFIO 11]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
-
----
-
-|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
-|---------------------------------------------|--------------------------------------------------|
-|<img src="" alt = "codigo" width="600" height="280">|<video src="" >|
-
----
-
-#### 14° PROJETO [DESAFIO 12]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
+#### 11° PROJETO [DESAFIO 9]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
 
 ---
 
 |  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="" alt = "codigo" width="600" height="280">|<video src="" >|
+|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
 
 ---
 
-#### 15° PROJETO [DESAFIO 13]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
+#### 13° PROJETO [DESAFIO 10]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
 
 ---
 
 |  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<img src="" alt = "codigo" width="600" height="280">|<video src="" >|
+|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
+
+---
+
+#### 14° PROJETO [DESAFIO 11]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
+
+---
+
+|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
+|---------------------------------------------|--------------------------------------------------|
+|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
+
+---
+
+#### 15° PROJETO [DESAFIO 12]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
+
+---
+
+|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
+|---------------------------------------------|--------------------------------------------------|
+|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
+
+---
+
+#### 16° PROJETO [DESAFIO 13]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
+
+---
+
+|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
+|---------------------------------------------|--------------------------------------------------|
+|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
+
 
 ---
 
