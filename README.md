@@ -38,7 +38,9 @@
 
 ---
 
-| 2° PROJETO [DESAFIO 1]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número. |
+🔵<i>2° PROJETO</i>⚪
+
+|[DESAFIO 1]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ---
@@ -50,21 +52,24 @@
 ---
 
 
-
-
 ---
 
-#### 3° PROJETO [DESAFIO 2]: Crie um programa que gere números aleatórios com um botão possibilitando a geação de um novo número sempre que clicarmos nele.
+🔵<i>3° PROJETO</i>⚪
+
+|[DESAFIO 2]: Crie um programa que gere números aleatórios com um botão possibilitando a geação de um novo número sempre que clicarmos nele.|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 ---
 
 |  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
+|<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio02"><img src="https://github.com/user-attachments/assets/01fc3966-56db-44f5-b2c9-9bb3fd860fcb" alt = "codigo" width="500" height="300"></a>|<a href="https://youtu.be/pQHMKmvNO0M"><img src="https://github.com/user-attachments/assets/46667eb6-432a-4f23-8191-a3938d20f56d" alt = "codigo" width="500" height="300"></a>|
 
 ---
 
 
 ---
+
 
 #### 4° PROJETO [DESAFIO 3]: Crie um programa que receba um valor em reais do isuário e converta esse valor para dólar com uma cotação fixa.
 
