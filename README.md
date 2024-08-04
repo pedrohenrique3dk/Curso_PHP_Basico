@@ -1,6 +1,6 @@
 <div align='center'>
 
-|🐘 PROJETOS FEITOS NO CURSO DE PHP BÁSICO 🐘                            |
+|<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"> PROJETOS FEITOS NO CURSO DE PHP BÁSICO <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">                                 |
 |------------------------------------------------------------------------------------------------------------------------------|
 
 </div>
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-🔵<i>1° PROJETO</i>⚪
+<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>1° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
 
 |Projeto simples de criação de um formulário com interação entre PHP e HTML e estilizado em CSS. O projeto consiste em solicitar o nome e sobrenome do usuário e usando PHP imprimir na interface o nome que foi redigido no formulário.|
 |-------------------------------------------------------|
@@ -38,7 +38,7 @@
 
 ---
 
-🔵<i>2° PROJETO</i>⚪
+<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>2° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
 
 |[DESAFIO 1]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número. |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -54,7 +54,7 @@
 
 ---
 
-🔵<i>3° PROJETO</i>⚪
+<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>3° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
 
 |[DESAFIO 2]: Crie um programa que gere números aleatórios com um botão possibilitando a geação de um novo número sempre que clicarmos nele.|
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -67,8 +67,8 @@
 
 ---
 
-
 ---
+<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>3° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
 
 
 #### 4° PROJETO [DESAFIO 3]: Crie um programa que receba um valor em reais do isuário e converta esse valor para dólar com uma cotação fixa.
@@ -83,6 +83,7 @@
 
 
 ---
+<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>3° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
 
 #### 5° PROJETO [DESAFIO 4]: Crie um programa que converta moedas de reais para dólares, só que desta vez a cotação precisa ser sempre a mais atual, para isso encontre uma forma de pegar a cotação diária de algum site que forneça esses dados.
 
@@ -97,6 +98,7 @@
 
 
 ---
+<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>3° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
 
 #### 6° PROJETO [DESAFIO 5]: Crie um programa que faça uma análise de um número real separando a parte inteira da parte decimal. 
 ---
@@ -108,9 +110,8 @@
 ---
 
 
-
-
 ---
+<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>3° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
 
 #### 7° PROJETO: Criação de um forms simples retroalimentado em PHP. Aqui temos um unico arquivo que recebe e imprime os dados na tela, feito em PHP e CSS.
 ---
@@ -122,6 +123,7 @@
 ---
 
 ---
+<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>3° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
 
 #### 8° PROJETO [DESAFIO 6]: Crie um programa que receba dois valores, execute a divisão entre eles e mostre o dividendo, divisor e o resto da divisão.
 
@@ -133,22 +135,19 @@
 
 ---
 
-
-
-
 ---
+<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>3° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
 
 #### 9° PROJETO [DESAFIO 7]: Crie um programa em que o usuário digita um salário e o programa devolve a quantidade inteira de salários mínimos ao qual o salário digitado corresponde, mais o restante que sobra. Tome como base o salário mínimo de R$ 1380,60.
 
 ---
-
-
 
 |  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
 |<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
 
 ---
+<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>3° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
 
 #### 10° PROJETO [DESAFIO 8]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
 
@@ -159,6 +158,7 @@
 |<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
 
 ---
+<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>3° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
 
 #### 11° PROJETO [DESAFIO 9]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
 
@@ -169,6 +169,7 @@
 |<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
 
 ---
+<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>3° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
 
 #### 13° PROJETO [DESAFIO 10]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
 
@@ -179,6 +180,8 @@
 |<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
 
 ---
+<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>3° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+
 
 #### 14° PROJETO [DESAFIO 11]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
 
@@ -189,6 +192,8 @@
 |<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
 
 ---
+<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>3° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+
 
 #### 15° PROJETO [DESAFIO 12]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
 
@@ -199,6 +204,7 @@
 |<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
 
 ---
+<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>3° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
 
 #### 16° PROJETO [DESAFIO 13]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
 
