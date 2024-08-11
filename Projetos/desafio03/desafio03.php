@@ -28,8 +28,6 @@
             ?>
         </p>
         <p><a href="javascript:history.go(-1)"><input type="button" value="Voltar"></a></p>
-
-    </main>   
-    
+    </main>      
 </body>
 </html>
