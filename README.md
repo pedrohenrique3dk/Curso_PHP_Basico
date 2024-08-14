@@ -172,7 +172,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
 
 
 
-# REPOSITÓRIO EM CONSTRUÇÃO!!!
+# README EM CONSTRUÇÃO!!!
 
 
 
