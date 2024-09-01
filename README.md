@@ -103,7 +103,7 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/aulasphp/ex06"><img src="https://github.com/user-attachments/assets/653a6887-0eec-4aa6-9b28-da62fbad3443" alt = "codigo" width="400" height="250"></a>&nbsp;&nbsp; <a href="https://youtu.be/xgqOoPztr40"><img src="https://github.com/user-attachments/assets/dafbc6a7-02cb-482a-b93e-691d7b1db5bc" alt = "codigo" width="400" height="250"></a>|
+<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/aulasphp/ex06"><img src="https://github.com/user-attachments/assets/653a6887-0eec-4aa6-9b28-da62fbad3443" alt = "codigo" width="400" height="250"></a>&nbsp;&nbsp; <a href="https://youtu.be/xgqOoPztr40"><img src="https://github.com/user-attachments/assets/dafbc6a7-02cb-482a-b93e-691d7b1db5bc" alt = "codigo" width="400" height="250"></a>
 
 ---
 
@@ -162,218 +162,657 @@ https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
 ---
 </div>
 
+## Desafio 02 <img align="center" alt="Php" height="35" width="45" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
 
 
+Crie um programa que gere números aleatórios com um botão possibilitando a geação de um novo número sempre que clicarmos nele.
 
 
+## Tecnologias & Lingagens de Programação 🛠️ 
 
+Este projeto usas as seguintes tecnologias e linguagens de programação
+* <strong>PHP:</strong> ---.
+* <strong>HTML:</strong> ---.
+* <strong>CSS:</strong> ---.
 
-
-
-
-
-# README EM CONSTRUÇÃO!!!
-
-
-
-
-
-
-
-
-
-
-
----
-
-<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>3° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-
-|[DESAFIO 2]: Crie um programa que gere números aleatórios com um botão possibilitando a geação de um novo número sempre que clicarmos nele.|
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
----
-
-|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
-|---------------------------------------------|--------------------------------------------------|
-|<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio02"><img src="https://github.com/user-attachments/assets/01fc3966-56db-44f5-b2c9-9bb3fd860fcb" alt = "codigo" width="500" height="300"></a>|<a href="https://youtu.be/pQHMKmvNO0M"><img src="https://github.com/user-attachments/assets/46667eb6-432a-4f23-8191-a3938d20f56d" alt = "codigo" width="500" height="300"></a>|
-
----
-
----
-<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>4° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-
-
-|[DESAFIO 3]: Crie um programa que receba um valor em reais do Usuário e converta esse valor para dólar com uma cotação fixa de R$ 5,49.|
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
----
-
-|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
-|---------------------------------------------|--------------------------------------------------|
-|<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio03"><img src="https://github.com/user-attachments/assets/b558ca38-1afe-4829-9b90-7a50fd42eca6" alt = "codigo" width="500" height="300"></a>|<a href="https://youtu.be/nX59PQ7tNkA"><img src="https://github.com/user-attachments/assets/aa43c2b1-c2da-488d-8182-fa8325557cde" alt = "codigo" width="500" height="300"></a>|
-
----
-
----
-<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>5° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-
-|[DESAFIO 4]: Crie um programa que converta moedas de reais para dólares, só que desta vez a cotação precisa ser sempre a mais atual, para isso encontre uma forma de pegar a cotação diária de algum site que forneça esses dados.|
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
----
-
-|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
-|---------------------------------------------|--------------------------------------------------|
-|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
-
-
----
-
-
----
-<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>6° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-
-|PROJETO [DESAFIO 5]: Crie um programa que faça uma análise de um número real separando a parte inteira da parte decimal.|
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
----
-
-|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
-|---------------------------------------------|--------------------------------------------------|
-|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
-
----
-
-
----
-<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>7° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-
-|PROJETO: Criação de um forms simples retroalimentado em PHP. Aqui temos um unico arquivo que recebe e imprime os dados na tela, feito em PHP e CSS.|
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
----
-
-|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
-|---------------------------------------------|--------------------------------------------------|
-|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>||
-
----
-
----
-<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>8° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-
-| PROJETO [DESAFIO 6]: Crie um programa que receba dois valores, execute a divisão entre eles e mostre o dividendo, divisor e o resto da divisão.|
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
----
-
-|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
-|---------------------------------------------|--------------------------------------------------|
-|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
-
----
-
----
-<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>9° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-
-| PROJETO [DESAFIO 7]: Crie um programa em que o usuário digita um salário e o programa devolve a quantidade inteira de salários mínimos ao qual o salário digitado corresponde, mais o restante que sobra. Tome como base o salário mínimo de R$ 1380,60.|
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
----
-
-|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
-|---------------------------------------------|--------------------------------------------------|
-|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
-
----
-<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>10° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-
-| PROJETO [DESAFIO 8]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número. |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
----
-
-|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
-|---------------------------------------------|--------------------------------------------------|
-|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
-
----
-<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>11° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-
-| PROJETO [DESAFIO 9]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.|
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
----
-
-|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
-|---------------------------------------------|--------------------------------------------------|
-|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
-
----
-<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>13° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-
-| PROJETO [DESAFIO 10]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número. |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
----
-
-|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
-|---------------------------------------------|--------------------------------------------------|
-|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
-
----
-<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>3° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-
-
-| 14° PROJETO [DESAFIO 11]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.|
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
----
-
-|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
-|---------------------------------------------|--------------------------------------------------|
-|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
-
----
-<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>3° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-
-
-|15° PROJETO [DESAFIO 12]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.|
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
----
-
-|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
-|---------------------------------------------|--------------------------------------------------|
-|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
-
----
-<img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"><i>3° PROJETO</i><img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-
-| 16° PROJETO [DESAFIO 13]: Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.|
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
-
----
-
-|  CÓDIGO DO PROJETO | APRESENTAÇÃO DO PROJETO |
-|---------------------------------------------|--------------------------------------------------|
-|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|<a href=""><img src="" alt = "codigo" width="500" height="300"></a>|
-
-
----
-
-
+<div align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
 
 </div>
+
+---
+
+## Como Utilizar 🚀
+Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
+
+```bash
+
+```
+
+___
+
+
+## Todos os Arquivos do Repositório 🗃️
+Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
+
+```bash
+https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+```
+
+</div>
+
+<div align='center'>
+
+|  CÓDIGO DO PROJETO |APRESENTAÇÃO DO PROJETO |
+|---------------------------------------------|--------------------------------------------------|
+
+---
+
+<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio02"><img src="https://github.com/user-attachments/assets/01fc3966-56db-44f5-b2c9-9bb3fd860fcb" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href="https://youtu.be/pQHMKmvNO0M"><img src="https://github.com/user-attachments/assets/46667eb6-432a-4f23-8191-a3938d20f56d" alt = "codigo" width="400" height="300"></a>
+
+---
+</div>
+
+## Desafio 03 <img align="center" alt="Php" height="35" width="45" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+
+Crie um programa que receba um valor em reais do Usuário e converta esse valor para dólar com uma cotação fixa de R$ 5,49.
+
+## Tecnologias & Lingagens de Programação 🛠️ 
+
+Este projeto usas as seguintes tecnologias e linguagens de programação
+* <strong>PHP:</strong> ---.
+* <strong>HTML:</strong> ---.
+* <strong>CSS:</strong> ---.
+
+<div align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Como Utilizar 🚀
+Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
+
+```bash
+
+```
+
+___
+
+
+## Todos os Arquivos do Repositório 🗃️
+Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
+
+```bash
+https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+```
+
+</div>
+
+<div align='center'>
+
+|  CÓDIGO DO PROJETO |APRESENTAÇÃO DO PROJETO |
+|---------------------------------------------|--------------------------------------------------|
+
+---
+
+<a href="https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio03"><img src="https://github.com/user-attachments/assets/b558ca38-1afe-4829-9b90-7a50fd42eca6" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href="https://youtu.be/nX59PQ7tNkA"><img src="https://github.com/user-attachments/assets/aa43c2b1-c2da-488d-8182-fa8325557cde" alt = "codigo" width="400" height="300"></a>
+
+---
+</div>
+
+## Desafio 04 <img align="center" alt="Php" height="35" width="45" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+
+Crie um programa que converta moedas de reais para dólares, só que desta vez a cotação precisa ser sempre a mais atual, para isso encontre uma forma de pegar a cotação diária de algum site que forneça esses dados.
+
+## Tecnologias & Lingagens de Programação 🛠️ 
+
+Este projeto usas as seguintes tecnologias e linguagens de programação
+* <strong>PHP:</strong> ---.
+* <strong>HTML:</strong> ---.
+* <strong>CSS:</strong> ---.
+
+<div align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Como Utilizar 🚀
+Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
+
+```bash
+
+```
+
+___
+
+
+## Todos os Arquivos do Repositório 🗃️
+Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
+
+```bash
+https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+```
+
+</div>
+
+<div align='center'>
+
+|  CÓDIGO DO PROJETO |APRESENTAÇÃO DO PROJETO |
+|---------------------------------------------|--------------------------------------------------|
+
+---
+
+<a href=""><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+
+---
+</div>
+
+## Desafio 05 <img align="center" alt="Php" height="35" width="45" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+
+Crie um programa que faça uma análise de um número real separando a parte inteira da parte decimal.
+
+## Tecnologias & Lingagens de Programação 🛠️ 
+
+Este projeto usas as seguintes tecnologias e linguagens de programação
+* <strong>PHP:</strong> ---.
+* <strong>HTML:</strong> ---.
+* <strong>CSS:</strong> ---.
+
+<div align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Como Utilizar 🚀
+Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
+
+```bash
+
+```
+
+___
+
+
+## Todos os Arquivos do Repositório 🗃️
+Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
+
+```bash
+https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+```
+
+</div>
+
+<div align='center'>
+
+|  CÓDIGO DO PROJETO |APRESENTAÇÃO DO PROJETO |
+|---------------------------------------------|--------------------------------------------------|
+
+---
+
+<a href=""><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+
+---
+</div>
+
+## Forms Simples Retroalimentado <img align="center" alt="Php" height="35" width="45" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+
+Criação de um forms simples retroalimentado em PHP. Aqui temos um unico arquivo que recebe e imprime os dados na tela, feito em PHP e CSS.
+
+## Tecnologias & Lingagens de Programação 🛠️ 
+
+Este projeto usas as seguintes tecnologias e linguagens de programação
+* <strong>PHP:</strong> ---.
+* <strong>HTML:</strong> ---.
+* <strong>CSS:</strong> ---.
+
+<div align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Como Utilizar 🚀
+Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
+
+```bash
+
+```
+
+___
+
+
+## Todos os Arquivos do Repositório 🗃️
+Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
+
+```bash
+https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+```
+
+</div>
+
+<div align='center'>
+
+|  CÓDIGO DO PROJETO |APRESENTAÇÃO DO PROJETO |
+|---------------------------------------------|--------------------------------------------------|
+
+---
+
+<a href=""><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+
+---
+</div>
+
+## Desafio 06 <img align="center" alt="Php" height="35" width="45" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+
+Crie um programa que receba dois valores, execute a divisão entre eles e mostre o dividendo, divisor e o resto da divisão.
+
+## Tecnologias & Lingagens de Programação 🛠️ 
+
+Este projeto usas as seguintes tecnologias e linguagens de programação
+* <strong>PHP:</strong> ---.
+* <strong>HTML:</strong> ---.
+* <strong>CSS:</strong> ---.
+
+<div align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Como Utilizar 🚀
+Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
+
+```bash
+
+```
+
+___
+
+
+## Todos os Arquivos do Repositório 🗃️
+Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
+
+```bash
+https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+```
+
+</div>
+
+<div align='center'>
+
+|  CÓDIGO DO PROJETO |APRESENTAÇÃO DO PROJETO |
+|---------------------------------------------|--------------------------------------------------|
+
+---
+
+<a href=""><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+
+---
+</div> 
+
+## Desafio 07 <img align="center" alt="Php" height="35" width="45" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+
+Crie um programa em que o usuário digita um salário e o programa devolve a quantidade inteira de salários mínimos ao qual o salário digitado corresponde, mais o restante que sobra. Tome como base o salário mínimo de R$ 1380,60.
+
+## Tecnologias & Lingagens de Programação 🛠️ 
+
+Este projeto usas as seguintes tecnologias e linguagens de programação
+* <strong>PHP:</strong> ---.
+* <strong>HTML:</strong> ---.
+* <strong>CSS:</strong> ---.
+
+<div align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Como Utilizar 🚀
+Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
+
+```bash
+
+```
+
+___
+
+
+## Todos os Arquivos do Repositório 🗃️
+Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
+
+```bash
+https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+```
+
+</div>
+
+<div align='center'>
+
+|  CÓDIGO DO PROJETO |APRESENTAÇÃO DO PROJETO |
+|---------------------------------------------|--------------------------------------------------|
+
+---
+
+<a href=""><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+
+---
+</div> 
+
+## Desafio 08 <img align="center" alt="Php" height="35" width="45" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+
+Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
+
+## Tecnologias & Lingagens de Programação 🛠️ 
+
+Este projeto usas as seguintes tecnologias e linguagens de programação
+* <strong>PHP:</strong> ---.
+* <strong>HTML:</strong> ---.
+* <strong>CSS:</strong> ---.
+
+<div align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Como Utilizar 🚀
+Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
+
+```bash
+
+```
+
+___
+
+
+## Todos os Arquivos do Repositório 🗃️
+Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
+
+```bash
+https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+```
+
+</div>
+
+<div align='center'>
+
+|  CÓDIGO DO PROJETO |APRESENTAÇÃO DO PROJETO |
+|---------------------------------------------|--------------------------------------------------|
+
+---
+
+<a href=""><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+
+---
+</div> 
+
+## Desafio 09 <img align="center" alt="Php" height="35" width="45" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+
+ Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
+
+## Tecnologias & Lingagens de Programação 🛠️ 
+
+Este projeto usas as seguintes tecnologias e linguagens de programação
+* <strong>PHP:</strong> ---.
+* <strong>HTML:</strong> ---.
+* <strong>CSS:</strong> ---.
+
+<div align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Como Utilizar 🚀
+Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
+
+```bash
+
+```
+
+___
+
+
+## Todos os Arquivos do Repositório 🗃️
+Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
+
+```bash
+https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+```
+
+</div>
+
+<div align='center'>
+
+|  CÓDIGO DO PROJETO |APRESENTAÇÃO DO PROJETO |
+|---------------------------------------------|--------------------------------------------------|
+
+---
+
+<a href=""><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+
+---
+</div> 
+
+## Desafio 10 <img align="center" alt="Php" height="35" width="45" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+
+Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
+
+## Tecnologias & Lingagens de Programação 🛠️ 
+
+Este projeto usas as seguintes tecnologias e linguagens de programação
+* <strong>PHP:</strong> ---.
+* <strong>HTML:</strong> ---.
+* <strong>CSS:</strong> ---.
+
+<div align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Como Utilizar 🚀
+Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
+
+```bash
+
+```
+
+___
+
+
+## Todos os Arquivos do Repositório 🗃️
+Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
+
+```bash
+https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+```
+
+</div>
+
+<div align='center'>
+
+|  CÓDIGO DO PROJETO |APRESENTAÇÃO DO PROJETO |
+|---------------------------------------------|--------------------------------------------------|
+
+---
+
+<a href=""><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+
+---
+</div> 
+
+## Desafio 11 <img align="center" alt="Php" height="35" width="45" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+
+Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
+
+## Tecnologias & Lingagens de Programação 🛠️ 
+
+Este projeto usas as seguintes tecnologias e linguagens de programação
+* <strong>PHP:</strong> ---.
+* <strong>HTML:</strong> ---.
+* <strong>CSS:</strong> ---.
+
+<div align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Como Utilizar 🚀
+Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
+
+```bash
+
+```
+
+___
+
+
+## Todos os Arquivos do Repositório 🗃️
+Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
+
+```bash
+https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+```
+
+</div>
+
+<div align='center'>
+
+|  CÓDIGO DO PROJETO |APRESENTAÇÃO DO PROJETO |
+|---------------------------------------------|--------------------------------------------------|
+
+---
+
+<a href=""><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+
+---
+</div> 
+
+## Desafio 12 <img align="center" alt="Php" height="35" width="45" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+
+Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
+
+## Tecnologias & Lingagens de Programação 🛠️ 
+
+Este projeto usas as seguintes tecnologias e linguagens de programação
+* <strong>PHP:</strong> ---.
+* <strong>HTML:</strong> ---.
+* <strong>CSS:</strong> ---.
+
+<div align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Como Utilizar 🚀
+Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
+
+```bash
+
+```
+
+___
+
+
+## Todos os Arquivos do Repositório 🗃️
+Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
+
+```bash
+https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+```
+
+</div>
+
+<div align='center'>
+
+|  CÓDIGO DO PROJETO |APRESENTAÇÃO DO PROJETO |
+|---------------------------------------------|--------------------------------------------------|
+
+---
+
+<a href=""><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+
+---
+</div> 
+
+## Desafio 13 <img align="center" alt="Php" height="35" width="45" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+
+Crie um programa em que você vai receber do usuário um número e imformar na tela qual é o sucessor desse número e o antecessor desse número.
+
+## Tecnologias & Lingagens de Programação 🛠️ 
+
+Este projeto usas as seguintes tecnologias e linguagens de programação
+* <strong>PHP:</strong> ---.
+* <strong>HTML:</strong> ---.
+* <strong>CSS:</strong> ---.
+
+<div align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Como Utilizar 🚀
+Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
+
+```bash
+
+```
+
+___
+
+
+## Todos os Arquivos do Repositório 🗃️
+Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. Porém saiba que ele está em construção 🛠️
+
+```bash
+https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos
+```
+
+</div>
+
+<div align='center'>
+
+|  CÓDIGO DO PROJETO |APRESENTAÇÃO DO PROJETO |
+|---------------------------------------------|--------------------------------------------------|
+
+---
+
+<a href=""><img src="" alt = "codigo" width="400" height="300"></a>&nbsp;&nbsp; <a href=""><img src="" alt = "codigo" width="400" height="300"></a>
+
+---
+</div> 
 
 
 
