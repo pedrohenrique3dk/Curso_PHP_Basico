@@ -187,7 +187,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 
 ```bash
-
+https://github.com/pedrohenrique3dk/Curso_PHP_Basico/tree/main/Projetos/desafio02
 ```
 
 ___
